@@ -1,5 +1,7 @@
 # Seyehat-Planlama-Uyg-09
-// Öncelikle Seyahat Rotası oluşturulur, ardından Konaklama Tesisi seçilir ve Fiyat belirlenir ve Seyahat Planı Oluşturulur.
+
+Python ile Geliştirilmiştir. Seyahat Planlama Uygulamasıdır öncelikle Seyahat Rotası belirlenir ardından Konaklamak istenilen Tesis belirlenir ve Fiyat yazılır son olarak da planlama oluşturulur.
+
 
 ![Ekran görüntüsü 2024-05-06 154853](https://github.com/YusufSural/Seyahat-Planlama-Uyg-09/assets/84929731/15bf4b6b-0ab6-48a2-a5c0-185098f90693)
 
